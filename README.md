@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   My name is Pedro and I work at iFood, the biggest food delivery company in Brazil.<br>
-  I'm currently studying <strong>Web Development</strong> at Driven Education. ✨
+  I'm currently studying <strong>Web Development</strong> at Driven Education. ✨<br>
+  Take a look at my projects down below!
 </p>
 
 <p align="left">
