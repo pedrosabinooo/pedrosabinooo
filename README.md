@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop">
 
 <p align="left"> 
-  My name is Pedro and I work at iFood, the biggest food delivery company in Brazil.<br>
+  My name is Pedro (he/his) and I work at iFood, the coolest food delivery company in Brazil.<br>
   I'm currently studying <strong>Web Development</strong> at Driven Education. ✨<br>
   Take a look at my projects down below!
 </p>
