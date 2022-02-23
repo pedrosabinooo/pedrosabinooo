@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 <p align="left">
   💌 Use one of these channels to get in touch: ⤵️
 </p>
-<p align="left">
-  <a href="pedrosabino@outlook.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=pedrosabino@outlook.com" /></a>
-  
+<p align="left">  
   <a href="https://www.linkedin.com/in/pedrohsf/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohsf/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5512981238440&text=Hey%20Pedro!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D" alt="WhatsApp">
