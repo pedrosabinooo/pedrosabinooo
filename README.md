@@ -48,9 +48,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/pedrosabinooo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrosabinooo/"/></a>
 </p>  
-  
-<details>
-    <summary>GitHub Stats</summary>
-    <img style="margin-right:5px" alt="Pedro gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrosabinooo" />
+  ##
+<div>
+  ![Snake animation](https://github.com/pedrosabinooo/pedrosabinooo/blob/output/github-contribution-grid-snake.svg)
     
-</details>
+</div>
