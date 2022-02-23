@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <a href="pedrosabino@outlook.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&labelColor=0078D4&logo=microsoftoutlook&logoColor=white&link=pedrosabino@outlook.com" /></a>
-  
   <a href="https://www.linkedin.com/in/pedrohsf/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohsf/" /></a>
 
