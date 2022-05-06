@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
   🦄 Languages: <strong>HTML, CSS, JavaScript</strong>
-</p>
-<!-- 
+</p> 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p> -->
+  💼 Ferramentas: <strong>React, NodeJS, MongoDB</strong>
+</p>
 <p align="left">
   💌 Use one of these channels to get in touch: ⤵️
 </p>
