@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 
 <p align="left">
   My name is Pedro (he/his) and I work at iFood, the coolest food delivery company in Brazil.<br>
-  I'm currently studying <strong>Web Development</strong> at Driven Education. ✨<br>
   Take a look at my projects down below!
 </p>
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, JavaScript</strong>
+  🦄 Languages: <strong>SQL, Python, HTML, CSS, JavaScript</strong>
 </p> 
+<!--
 <p align="left">
   💼 Ferramentas: <strong>React, NodeJS, MongoDB</strong>
 </p>
+-->
 <p align="left">
   💌 Use one of these channels to get in touch: ⤵️
 </p>
 <p align="left">  
-  <a href="https://www.linkedin.com/in/pedrohsf/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohsf/" /></a>
+  <a href="https://www.linkedin.com/in/pedrosabinooo/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrosabinooo/" /></a>
   <a href="https://api.whatsapp.com/send?phone=5512981238440&text=Hey%20Pedro!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512981238440&text=Hey%20Pedro!%20I%20saw%20your%20github%20profile%20and%20wanted%20to%20get%20in%20touch%20:D"/></a>
   <a href="https://www.facebook.com/pedrosabino" alt="Facebook">
@@ -37,9 +38,3 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/pedrosabinooo/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrosabinooo/"/></a>
 </p>  
-  
-<details>
-    <summary>GitHub Stats</summary>
-    <img style="margin-right:5px" alt="Pedro gitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pedrosabinooo" />
-    
-</details>
